@@ -1,4 +1,4 @@
-# Snake and Ladder & Tic-Tac-Toe – C++ Mini Project
+# 🎮 Snake and Ladder & Tic-Tac-Toe – C++ Mini Project
 
 This beginner-friendly C++ project brings two timeless games — **Snake and Ladder** and **Tic-Tac-Toe** — into a single console-based application. Designed as a hands-on introduction to game logic, turn-based mechanics, and user interaction in C++, it supports both **Player vs Player** and **Player vs Computer** modes.
 
