@@ -15,7 +15,6 @@ This project aims to strengthen C++ fundamentals through interactive gameplay de
 - **Language:** C++
 - **Concepts Used:** Classes, Functions, Arrays, Loops, Conditionals
 - **Interface:** Command Line (Console)
-- **Randomization:** `rand()` function from `<cstdlib>`
 
 ---
 
